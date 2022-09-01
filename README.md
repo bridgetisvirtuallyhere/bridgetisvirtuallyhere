@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bridgetisvirtuallyhere
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL, R
-- 💞️ I’m looking to collaborate on Database things
+- 👀 I’m interested in data analytics and security
+- 🌱 I’m currently learning Java
 - 📫 How to reach me linkedin @bridgetacosta
 
 <!---
